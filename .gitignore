@@ -3,3 +3,5 @@
 *.bak1/
 # Ignorar carpetas con el mismo nombre que archivos CST
 CST/*/
+# Ignorar carpeta History generada por AWR
+History/
