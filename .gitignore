@@ -1,0 +1,5 @@
+# Ignorar todas las carpetas creadas por proyectos CST
+*.cst/
+*.bak1/
+# Ignorar carpetas con el mismo nombre que archivos CST
+CST/*/
