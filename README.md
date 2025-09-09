@@ -25,10 +25,10 @@ Estas antenas son cruciales para sistemas de comunicación que requieren:
 - Amplio ancho de banda
 
 Fabricadas principalmente de cobre, pueden adoptar diversas geometrías, aunque las formas **rectangular y circular** son las más utilizadas.
-El tamaño depende de la constante dielectrica del sustrato, siendo menor con una constatne más alta.
+El tamaño depende de la constante dielectrica del sustrato, siendo menor con una constante más alta.
 
 ## Propuesta del Proyecto
-En este trabajo se propone el **diseño de un arreglo de 16 elementos** utilizadno material **FR4**, que permite acceder a las bandas de **Wi-Fi 5, Wi-Fi 6 y Wi-Fi 6E**.
+En este trabajo se propone el **diseño de un arreglo de 16 elementos** utilizando material **FR4**, que permite acceder a las bandas de **Wi-Fi 5, Wi-Fi 6 y Wi-Fi 6E**.
 
 El Arreglo de antenas de parche microstrip fue:
 - **Simulado** en *CST Studio Suite 2021*
