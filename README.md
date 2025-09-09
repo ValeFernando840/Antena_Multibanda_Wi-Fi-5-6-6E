@@ -1,4 +1,4 @@
-# Diseño y Simulación de una Antena Patch Multibanda Wifi 5-6-6E
+# Diseño y Simulación de una Antena Patch Multibanda WiFi 5-6-6E
 
 ## Introducción
 La comunicación inalámbrica es un sector de rápido crecimiento que influye significativamente en mejorar el nivel de vida de las personas.
